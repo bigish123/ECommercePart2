@@ -32,11 +32,6 @@ export default class Navbar extends Component {
                        Login 
                     </Link>
                  </li>
-                 <li className="nav-item ml-5">
-                    <Link to="/" className="nav-link">
-                       Register
-                    </Link>
-                 </li>
                </ul>
                <Link to="/cart" className="ml-auto">
                   <ButtonContainer>
